@@ -1,0 +1,220 @@
+﻿Day,Date,Method,Departs,Arrives,Booked,Cost,Paid
+Fri,2019-03-01,Flight,London,Buenos Aires,Yes,,Yes
+Wed,2019-04-03,Flight,Buenos Aires: 13:10,Iguazu: 15:00,Yes,95,Yes
+Thurs,2019-04-04,,,,,,
+Fri,2019-04-05,,,,,,
+Sat,2019-04-06,Flight,Iguazu: 11:05,Mendoza 13:50,Yes,109.39,Yes
+Sun,2019-04-07,,,,,,
+Mon,2019-04-08,,,,,,
+Tues,2019-04-09,Bus,Mendoza: 10:30,Santiago: 17:30,Yes,38.84,Yes
+Wed,2019-04-10,,,,,,
+Thurs,2019-04-11,,,,,,
+Fri,2019-04-12,Flight,Santiago: 06:05,Punta Arenas: 10:30,Yes,97.25,Yes
+Sat,2019-04-13,Bus,Puerto Natales: 07:30,El Calafate: 14:15,Yes,,Yes
+Sat,2019-04-13,Bus,El Calafate,El Chalten,No,,No
+Sun,2019-04-14,,,,,,
+Mon,2019-04-15,,,,,,
+Tues,2019-04-16,,,,,,
+Wed,2019-04-17,Bus,El Chalten,El Calafate,No,,No
+Thurs,2019-04-18,,,,,,
+Fri,2019-04-19,,,,,,
+Sat,2019-04-20,,,,,,
+Sun,2019-04-21,Bus,El Calafate: 08:00,Puerto Natales: 15:05,Yes,,Yes
+Mon,2019-04-22,,,,,,
+Tues,2019-04-23,Flight,Punta Arenas: 21:23,Santiago: 00:45,Yes,173.81,Yes
+Wed,2019-04-24,Flight,Santiago: 05:35,Calama: 07:41,Yes,Yes,
+Thurs,2019-04-25,,,,,,
+Fri,2019-04-26,,,,,,
+Sat,2019-04-27,,,,,,
+Sun,2019-04-28,Overnight Bus,Uyuni: 20:00,La Paz: 06:00 (+1),Yes,59.31,Yes
+Mon,2019-04-29,,,,,,
+Tues,2019-04-30,,,,,,
+Wed,2019-05-01,,,,,,
+Thurs,2019-05-02,,,,,,
+Fri,2019-05-03,,,,,,
+Sat,2019-05-04,Flight,La Paz: 10:05,Rurrenabaque: 10:45,Yes,141.17,Yes
+Sun,2019-05-05,,,,,,
+Mon,2019-05-06,,,,,,
+Tues,2019-05-07,,,,,,
+Wed,2019-05-08,,,,,,
+Thurs,2019-05-09,,,,,,
+Fri,2019-05-10,,,,,,
+Sat,2019-05-11,Flight,Rurrenabaque: 14:35,La Paz: 15:15,Yes,141.17,Yes
+Sun,2019-05-12,Overnight Bus,La Paz: 07:00,Cusco: 06:00 (+1),Yes,62.28,Yes
+Mon,2019-05-13,,,,,,
+Tues,2019-05-14,Train,Cusco: 06:40,Machu Picchu: 09:54,Yes,106.04,Yes
+Wed,2019-05-15,Train,Machu Picchu: 15:20,Cusco: 19:05,Yes,Yes,
+Thurs,2019-05-16,Flight,Cusco: 11:35,Lima: 13:00,Yes,60.06,Yes
+Weds,2019-06-12,Flight,Lima 14:50,Medellin 18:09,Yes,75,Yes
+Thurs,2019-06-13,,,,,,
+Fri,2019-06-14,,,,,,
+Sat,2019-06-15,,,,,,
+Sun,2019-06-16,,,,,,
+Mon,2019-06-17,,,,,,
+Tues,2019-06-18,,,,,,
+Weds,2019-06-19,,,,,,
+Thurs,2019-06-20,Flight,Medellin 08:58,Cartagena 10:07,Yes,47,Yes
+Fri,2019-06-21,,,,,,
+Sat,2019-06-22,,,,,,
+Sun,2019-06-23,,,,,,
+Mon,2019-06-24,,,,,,
+Tues,2019-06-25,Flight,Cartagena 10:33,Panama 11:44,Yes,87,Yes
+Weds,2019-06-26,,,,,,
+Thurs,2019-06-27,Flight,Panama 14:00,San Jose 14:21,Yes,125,Yes
+Fri,2019-06-28,,,,,,
+Sat,2019-06-29,,,,,,
+Sun,2019-06-30,,,,,,
+Mon,2019-07-01,,,,,,
+Tues,2019-07-02,,,,,,
+Weds,2019-07-03,,,,,,
+Thurs,2019-07-04,,,,,,
+Fri,2019-07-05,,,,,,
+Sat,2019-07-06,,,,,,
+Sun,2019-07-07,,,,,,
+Mon,2019-07-08,,,,,,
+Tues,2019-07-09,,,,,,
+Weds,2019-07-10,Flight,San Jose 06:15,Cancun 17:30,Yes,147,Yes
+Weds,2019-08-07,Bus,PDC 08:25,Belize City 15:25,Yes,35,Yes
+Weds,2019-08-07,Boat,Belize City,Caye Caulker,NO,,NO
+Thurs,2019-08-08,,,,,,
+Fri,2019-08-09,,,,,,
+Sat,2019-08-10,,,,,,
+Sun,2019-08-11,,,,,,
+Mon,2019-08-12,Boat,Caye Caulker,Belize City,NO,,NO
+Mon,2019-08-12,Bus,Belize City 11:00,Cancun,NO,,NO
+Tues,2019-08-13,Flight,Cancun 08:10,Havana 10:20,Yes,79,Yes
+Weds,2019-08-14,,,,,,
+Thurs,2019-08-15,Bus,Havana 11:25,Vinales 15:15,Yes,10,Yes
+Fri,2019-08-16,,,,,,
+Sat,2019-08-17,Bus,Vinales,Trinidad,NO,,NO
+Sun,2019-08-18,,,,,,
+Mon,2019-08-19,,,,,,
+Tues,2019-08-20,Bus,Trinidad 07:55,Havana 13:30,Yes,21,Yes
+Weds,2019-08-21,Flight,Havana 16:00,Mexico City 18:15,Yes,81,Yes
+Weds,2019-08-21,Flight,Mexico City 20:50,Tuxtla Gutierrez 22:20,Yes,81,Yes
+Thurs,2019-08-22,,,,,,
+Fri,2019-08-23,,,,,,
+Sat,2019-08-24,,,,,,
+Sun,2019-08-25,,,,,,
+Mon,2019-08-26,Flight,Tuxtla Gutierrez 07:00,Mexico City 08:40,Yes,51.82,Yes
+Mon,2019-08-26,Flight,Mexico City 10:30,Guadalajara 11:45,Yes,51.82,Yes
+Tues,2019-08-27,Flight,Guadalajara 07:25,San Francisco 09:30,Yes,302.72,Yes
+Weds,2019-08-28,Flight,San Francisco 01:30,Beijing 04:25 (+1),Yes,230.62,Yes
+Thurs,2019-08-29,Flight,Beijing 14:15,Bangkok 18:35,Yes,230.62,Yes
+Fri,2019-08-30,,,,,,
+Sat,2019-08-31,,,,,,
+Sun,2019-09-01,,,,,,
+Mon,2019-09-02,,,,,,
+Tues,2019-09-03,,,,,,
+Weds,2019-09-04,,,,,,
+Fri,2019-09-05,,,,,,
+Sat,2019-09-06,Flight,Bangkok 08:30,Chumphon 09:35,Yes,,Yes
+Sat,2019-09-07,Ferry,Chumphon Pier 13:00,Ko Tao 14:45,Yes,16,Yes
+Sun,2019-09-08,,,,,,
+Mon,2019-09-09,,,,,,
+Tues,2019-09-10,,,,,,
+Weds,2019-09-11,,,,,,
+Thurs,2019-09-12,,,,,,
+Fri,2019-09-13,,,,,,
+Sat,2019-09-14,,,,,,
+Sun,2019-09-15,,,,,,
+Mon,2019-09-16,Ferry,Ko Tao 10:15,Chumphon 11:45,Yes,16,Yes
+Mon,2019-09-16,Flight,Chumphon 18:45,Bangkok 19:50,Yes,,Yes
+Tues,2019-09-17,Flight,Bangkok 11:30,Kuala Lumpur 14:35,Yes,78,Yes
+Mon,2019-09-18,Flight,Kuala Lumpur 13:40,Makassar 17:05,Yes,99.6,No
+Tues,2019-10-01,Flight,Makassar 04:10,Sorong 07:30,Yes,76.4,No
+Weds,2019-10-02,,,,,,
+Thurs,2019-10-03,,,,,,
+Fri,2019-10-04,,,,,,
+Sat,2019-10-05,,,,,,
+Sun,2019-10-06,,,,,,
+Mon,2019-10-07,,,,,,
+Tues,2019-10-08,,,,,,
+Weds,2019-10-09,,,,,,
+Thurs,2019-10-10,Flight,Sorong 14:05,Makassar 15:25,Yes,,No
+Thurs,2019-10-10,Flight,Makassar 16:40,Bali 18:00,Yes,157,No
+Fri,2019-10-11,,,,,,
+Sat,2019-10-12,,,,,,
+Sun,2019-10-13,,,,,,
+Mon,2019-10-14,,,,,,
+Tues,2019-10-15,,,,,,
+Weds,2019-10-16,Flight,Kuala Lumpur 23:30,London 05:55,,,
+Tues,2019-10-29,Flight,Bali 16:05,Jakarta 17:10,Yes,,Yes
+Weds,2019-10-30,Flight,Jakarta 23:10 (-1 day),Seoul (ICN) 08:30,Yes,,Yes
+Weds,2019-10-30,Flight,Seoul (GMP) 14:30,Busan (PUS) 15:30,Yes,,Yes
+Thurs,2019-10-31,,,,,,
+Fri,2019-11-01,,,,,,
+Sat,2019-11-02,,,,,,
+Sun,2019-11-03,,,,,,
+Mon,2019-11-04,,,,,,
+Tues,2019-11-05,,,,,,
+Weds,2019-11-06,,,,,,
+Thurs,2019-11-07,,,,,,
+Fri,2019-11-08,,,,,,
+Sat,2019-11-09,,,,,,
+Sun,2019-11-10,,,,,,
+Mon,2019-11-11,,,,,,
+Tues,2019-11-12,,,,,,
+Weds,2019-11-13,,,,,,
+Thurs,2019-11-14,Flight,Busan 08:35,Osaka 10:05,Yes,41,Yes
+Fri,2019-11-15,,,,,,
+Sat,2019-11-16,,,,,,
+Sun,2019-11-17,,,,,,
+Mon,2019-11-18,Bus,Osaka 22:05,Tokyo 06:45 (+1 day),Yes,28,Yes
+Tues,2019-11-19,,,,,,
+Weds,2019-11-20,,,,,,
+Thurs,2019-11-21,Flight,Tokyo 18:10,Seoul 21:05,Yes,70,Yes
+Fri,2019-11-22,,,,,,
+Sat,2019-11-23,,,,,,
+Sun,2019-11-24,,,,,,
+Mon,2019-11-25,Flight,Seoul 11:05,Tashkent 14:00,Yes,290,Yes
+Tues,2019-11-26,Train,Tashkent 07:28,Bukhara 11:19,Yes,23,Yes
+Weds,2019-11-27,,,,,,
+Thurs,2019-11-28,,,,,,
+Fri,2019-11-29,Train,Bukhara 16:07,Samarkand 18:30,Yes,6,Yes
+Sat,2019-11-30,,,,,,
+Sun,2019-12-01,Train,Samarkand 18:00,Tashkent 20:10,Yes,14,Yes
+Mon,2019-12-02,,,,,,
+Tues,2019-12-03,Train,Tashkent 14:12,Almaty 08:10 (+1 day),Yes,62,Yes
+Weds,2019-12-04,,,,,,
+Thurs,2019-12-05,Flight,Almaty 18:10,Aktau 20:25,Yes,,Yes
+Thurs,2019-12-05,Flight,Aktau 23:00,Baku 23:10,Yes,83,Yes
+Fri,2019-12-06,Train,Baku,Tbilisi (+1 day),Yes,27,Yes
+Sat,2019-12-07,Bus,Tblilisi,Kutaisi,,,
+Sun,2019-12-08,,,,,,
+Mon,2019-12-09,,,,,,
+Tues,2019-12-10,,,,,,
+Weds,2019-12-11,,,,,,
+Thurs,2019-12-12,Flight,Kutaisi 14:20,London 15:45,Yes,53,Yes
+Thurs,2019-12-12,,London,Home,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
