@@ -8,4 +8,5 @@ My reasoning at the time for collating this data was purely for organisation and
 
 ### Project Contents:
 
-1. Route Map - Plotting my around-the-world travel route on a map (**Python, Geocoding, Matplotlib**)
+1. Route Map - Plotting my around-the-world travel route on a 2D map (**Python, Geocoding, Matplotlib**)
+2. Accomodation Guide - Accomodation information plotted on an interactive 3D globe filterable by country (**Python, Plotly**) 
