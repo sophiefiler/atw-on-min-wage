@@ -1,0 +1,71 @@
+﻿Date,Hotel Name,Location,Booked On,Number of Nights,Cost,Paid?
+01/04/2021,Vera 857,"Buenos Aires, Argentina",Airbnb,2,50,Yes
+03/04/2021,NaMaRa,"Iguazu Falls, Argentina",Booking.com,3,71,Yes
+06/04/2021,Armonia,"Mendoza, Argentina",Airbnb,3,55.6,Yes
+09/04/2021,MyLUXAPART,"Santiago, Chile",Booking.com,3,88.5,Yes
+12/04/2021,Hotel 53 Sur,"Puerto Natales, Chile",Booking.com,1,18.2,Yes
+13/04/2021,Rancho Grande,"El Chalten, Argentina",Booking.com,1,91.13,Yes
+17/04/2021,Bla Lodge,"El Calafate, Argentina",Booking.com,4,54.4,Yes
+21/04/2021,Hotel 53 Sur,"Puerto Natales, Chile",Booking.com,1,18.15,Yes
+22/04/2021,Hostal Residencial Buines,"Punta Arenas, Chile",Booking.com,1,25.19,Yes
+24/04/2021,Ckury Lickan 3,"San Pedro de Atacama, Chile",Airbnb,2,52.14,Yes
+29/04/2021,Otero de la Vega,"La Paz, Bolivia",Airbnb,5,129.4,Yes
+04/05/2021,Hotel Oriental,"Rurrenabaque, Bolivia",Booking.com,1,16,Yes
+05/05/2021,Atarisi Lodge,"Rurrenabaque, Bolivia",Booking.com,2,125,Yes
+07/05/2021,Hotel Oriental,"Rurrenabaque, Bolivia",Booking.com,1,16,Yes
+10/05/2021,Hotel Oriental,"Rurrenabaque, Bolivia",Booking.com,1,16,Yes
+11/05/2021,Loki Boutique,"La Paz, Bolivia",Booking.com,1,19,Yes
+13/05/2021,Carlos Guest House,"Cusco, Peru",Booking.com,1,9,Yes
+14/05/2021,Hostal Dennys House,"Machu Picchu, Peru",Booking.com,1,17,Yes
+15/05/2021,Carlos Guest House,"Cusco, Peru",Booking.com,1,9,Yes
+16/05/2021,Barranco Apartment,"Lima, Peru",Airbnb,27,736.52,Yes
+12/06/2021,Provenza Apartment,"Medellin, Colombia",Airbnb,8,221.52,Yes
+20/06/2021,St Patrick Hostel,"Cartagena, Colombia",Booking.com,1,14,Yes
+21/06/2021,Manigua Taganga,"Taganga, Colombia",Booking.com,3,42,Yes
+24/06/2021,St Patrick Hostel,"Cartagena, Colombia",Booking.com,1,20,Yes
+25/06/2021,Abraham's Airbnb,"Panama City, Panama",Airbnb,2,33,Yes
+27/06/2021,Hotel del Tropico,"Guapiles, Costa Rica",Booking.com,1,22,No
+28/06/2021,Hostel Turtle Bogue,"Tortuguero, Costa Rica",Booking.com,1,15,No
+29/06/2021,Casa Torre Eco Lodge,"Fortuna, Costa Rica",Booking.com,3,69,No
+02/07/2021,Pension Santa Elena,"Monteverde, Costa Rica",Booking.com,1,16.5,No
+03/07/2021,Finca Loro Azul,"Dominical, Costa Rica",Airbnb,2,55,Yes
+05/07/2021,Cabinas Yafeth Osa Caletas,"Drake Bay, Costa Rica",Booking.com,1,25.5,No
+06/07/2021,Jaguar's Jungle,"Palmar Norte, Costa Rica",Website,1,28,Yes
+07/07/2021,Cabinas Yafeth Osa Caletas,"Drake Bay, Costa Rica",Booking.com,2,51,No
+09/07/2021,Casa Makiki,"San Jose, Costa Rica",Booking.com,1,15,No
+10/07/2021,Coco Beach Apartment,"Playa Del Carmen, Mexico",Airbnb,28,582,Yes
+07/08/2021,Vista Del Mar,"Caye Caulker, Belize",Airbnb,5,162,Yes
+12/08/2021,Posado El Limonazo,"Cancun, Mexico",Booking.com,1,16,Yes
+13/08/2021,Casa Oslo,"Havana, Cuba",Airbnb,2,29,Yes
+15/08/2021,Villa Lliana y Jorgito,"Vinales, Cuba",Booking.com,2,14,Yes
+17/08/2021,Hostal Armonia,"Trinidad, Cuba",Airbnb,3,34,Yes
+20/08/2021,Casa Barbara 1908,"Havana, Cuba",Airbnb,1,19,Yes
+21/08/2021,Casa Del Angel,"Tuxtla Gutierrez, Mexico",Booking.com,1,16,No
+22/08/2021,Kukulpan Hostel,"San Cristobal, Mexico",Booking.com,3,29,No
+25/08/2021,Casa Del Angel,"Tuxtla Gutierrez, Mexico",Booking.com,1,19,No
+26/08/2021,Mi Viejo Refugio,"Guadalajara, Mexico",Booking.com,1,20,No
+29/08/2021,Din Daeng,"Bangkok, Thailand",Airbnb,7,166,Yes
+05/09/2021,Park 24 by Favstay,"Bangkok, Thailand",Booking.com,2,34,Yes
+07/09/2021,Haad Tien,"Ko Tao, Thailand",Booking.com,9,400,No
+16/09/2021,Chocolate Box Mint,"Bangkok, Thailand",Booking.com,1,22,No
+17/09/2021,S-38 The Robertson,"Kuala Lumpur, Malaysia",Airbnb,10,248,Yes
+27/09/2021,76 Jalan Raja Muda Abdul Aziz,"Kuala Lumpur, Malaysia",Airbnb,3,60,No
+30/09/2021,Ibis Budget,"Makassar, Indonesia",Booking.com,1,24,No
+01/10/2021,Nyandeteor Homestay,"Sorong, Raja Ampat",Stay Raja Ampat,4,160,No
+05/10/2021,Warahnus Homestay,"Kri, Raja Ampat",Stay Raja Ampat,3,120,No
+08/10/2021,Yengkankanes Homestay,"Waisai, Raja Ampat",Stay Raja Ampat,2,80,No
+10/10/2021,Villa Seniman 2 - Pererenan Beach,"Canggu, Bali",Airbnb,6,100,No
+30/10/2021,"Yeonsan-dong, Yeonje-gu","Busan, Korea",Airbnb,15,336,Yes
+14/11/2021,Qoo Hostel,"Osaka, Japan",Booking.com,1,19,No
+15/11/2021,bnb+sarasaNara,"Nara, Japan",Booking.com,3,84,No
+19/11/2021,Hiromas Hostel in Ueno,"Tokyo, Japan",Booking.com,2,44,Yes
+21/11/2021,Dadareum Guesthouse,"Seoul, Korea",Booking.com,4,74,No
+25/11/2021,Mulberry Hotel,"Tashkent, Uzbekistan",Booking.com,1,22,No
+26/11/2021,Zam-Zam,"Bukhara, Uzbekistan",Booking.com,3,40,No
+29/11/2021,B&B Giza Registan,"Samarkand, Uzbekistan",Booking.com,2,26,No
+01/12/2021,Mulberry Hotel,"Tashkent, Uzbekistan",Booking.com,2,48,No
+04/12/2021,Yellow Park Hostel,"Almaty, Kazakhstan",Booking.com,1,12,No
+05/12/2021,Royal Castle Boutique,"Baku, Azerbaijan",Booking.com,1,18,No
+07/12/2021,Vintage Art Rooms,"Tbilisi, Georgia",Booking.com,2,24.24,No
+09/12/2021,Luca Lili,"Signagi, Georgia",Booking.com,1,15.25,No
+10/12/2021,Aloft House,"Kutaisi, Georgia",Booking.com,2,14.88,No
